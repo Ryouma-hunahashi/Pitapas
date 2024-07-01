@@ -1,0 +1,52 @@
+﻿  compilation header save succeeded; see C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\PixelShader.h
+  compilation object save succeeded; see C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\x64\Release\PixelShader.cso
+  compilation header save succeeded; see C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\VertexShader.h
+  compilation object save succeeded; see C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\x64\Release\VertexShader.cso
+  CAnimation.cpp
+  CBackGround.cpp
+  CCircle.cpp
+  CCollider.cpp
+  CDirectx.cpp
+  CDrawManager.cpp
+  CFloat3.cpp
+  CFloor.cpp
+  CGame.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\CGame.cpp(11,22): warning C4244: '引数': 'ULONGLONG' から 'unsigned int' への変換です。データが失われる可能性があります。
+  CGameObject.cpp
+  CGoal.cpp
+  CInput.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\CInput.cpp(231,53): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Collision.cpp
+  CPiece.cpp
+  CPlayer.cpp
+  CScene.cpp
+  CSceneManager.cpp
+  CSelectScene.cpp
+  CSoundManager.cpp
+  CSquea.cpp
+  コンパイル中...
+  CTitleScene.cpp
+  CUi.cpp
+  CWindow.cpp
+  CWoodBox.cpp
+  main.cpp
+  Stage1.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage1.cpp(892,59): warning C4804: '<': 演算中の 'bool' 型の使用方法が安全ではありません
+  Stage2.cpp
+  Stage3.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage3.cpp(566,14): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage3.cpp(566,14): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage3.cpp(575,16): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage3.cpp(575,16): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+  Stage4.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage4.cpp(549,14): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage4.cpp(549,14): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage4.cpp(558,16): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage4.cpp(558,16): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+  WICTextureLoader.cpp
+  コード生成しています。
+  473 of 477 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    26 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Project1.vcxproj -> C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\x64\Release\Project1.exe

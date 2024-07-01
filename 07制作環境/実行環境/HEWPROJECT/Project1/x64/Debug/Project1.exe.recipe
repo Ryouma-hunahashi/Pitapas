@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\x64\Debug\Project1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\x64\Debug\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\x64\Debug\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

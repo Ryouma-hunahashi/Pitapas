@@ -1,0 +1,40 @@
+﻿  CAnimation.cpp
+  CBackGround.cpp
+  CCollider.cpp
+  CDirectx.cpp
+  CDrawManager.cpp
+  CFloor.cpp
+  CGame.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\CGame.cpp(11,22): warning C4244: '引数': 'ULONGLONG' から 'unsigned int' への変換です。データが失われる可能性があります。
+  CGameObject.cpp
+  CGoal.cpp
+  CInput.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\CInput.cpp(231,53): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  CPiece.cpp
+  CPlayer.cpp
+  CScene.cpp
+  CSceneManager.cpp
+  CSelectScene.cpp
+  CTitleScene.cpp
+  CUi.cpp
+  CWindow.cpp
+  CWoodBox.cpp
+  Collision.cpp
+  コードを生成中...
+  コンパイル中...
+  Stage1.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage1.cpp(892,59): warning C4804: '<': 演算中の 'bool' 型の使用方法が安全ではありません
+  Stage2.cpp
+  Stage3.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage3.cpp(566,14): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage3.cpp(566,14): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage3.cpp(575,16): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage3.cpp(575,16): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+  Stage4.cpp
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage4.cpp(549,14): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage4.cpp(549,14): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage4.cpp(558,16): warning C4156: 'delete' の配列でない形式を使った配列の削除は、定義されていません。
+C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\Project1\Stage4.cpp(558,16): warning C4154: 配列の delete が定義されていません。配列は、ポインターに変換されます。
+  main.cpp
+  コードを生成中...
+  Project1.vcxproj -> C:\Users\ryoum\Desktop\HEW\2年HEW\AT2010_ピタパス_0306\AT2010_ピタパス\07制作環境\実行環境\HEWPROJECT\x64\Debug\Project1.exe

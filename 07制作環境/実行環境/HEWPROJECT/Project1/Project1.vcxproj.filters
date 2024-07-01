@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{53f81def-92fd-48bb-9def-424845d01451}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{21ce582d-b00a-4faf-b43e-b8d3d143793a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{a3a99766-4da1-4c2b-bb2b-5aab3ac6e120}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Player">
+      <UniqueIdentifier>{52d9536c-42da-4e7a-9c9b-8e5e24ced1b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Input">
+      <UniqueIdentifier>{b267cb03-7e38-447a-af41-0933b30724de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\DirectX">
+      <UniqueIdentifier>{1253a5b2-697b-46b4-b593-6bbe33e3e2c9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Window">
+      <UniqueIdentifier>{a3e2707d-0b0b-43c3-9c93-00f1317e2c09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\TitleScene">
+      <UniqueIdentifier>{83de1253-ceab-4513-95fa-6c4a1bfa7991}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\SelectScene">
+      <UniqueIdentifier>{ccce13f0-653d-4561-b7d9-2b36754e8be0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Manager">
+      <UniqueIdentifier>{4ab727b9-8e81-4e50-a73c-e3a3066981dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Manager\SceneManager">
+      <UniqueIdentifier>{153de11c-1047-49d1-8809-28dd0aaf961f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Manager\SoundManager">
+      <UniqueIdentifier>{f339d59f-053d-4ff6-89a1-2a2af5aba346}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Manager\DrawManager">
+      <UniqueIdentifier>{cfab0f25-21a2-48f3-8868-6bd4b081b42f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\Game">
+      <UniqueIdentifier>{866ce6d9-bb80-4c18-b4e1-fab3f3d4f5ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\Scene">
+      <UniqueIdentifier>{d476897b-eb56-4f41-a828-b9adb132d126}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\Stage">
+      <UniqueIdentifier>{855d7175-2d0b-4cd1-9596-b0a1142bb0e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene\Stage\Stage1">
+      <UniqueIdentifier>{c3649ece-bd8e-4fb9-9631-a34a84a06504}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\TextureLoad">
+      <UniqueIdentifier>{54e98036-008a-4cff-b2d4-9bd61801a17d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision">
+      <UniqueIdentifier>{ea6ce8ef-8bf7-45b7-8a20-32ffa0186cb8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision\Float3">
+      <UniqueIdentifier>{6f71e4a3-a660-4108-8641-00f2ca2cf235}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision\Collision">
+      <UniqueIdentifier>{cb0da368-ef8e-4808-8dae-87b988947392}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Floor">
+      <UniqueIdentifier>{693466ed-bfa3-461e-8d34-92cc1bf0c7dd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Ui">
+      <UniqueIdentifier>{30928d8b-2fb7-485f-b040-27e6c0774dae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision\Circle">
+      <UniqueIdentifier>{7e3f75b2-6373-4518-8e69-3363e5350e2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Goal">
+      <UniqueIdentifier>{2ff95c7b-996d-4adb-92cf-2122ef6bb94d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Animation">
+      <UniqueIdentifier>{22a0f342-e679-4ceb-b30c-8310fc3edfca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Background">
+      <UniqueIdentifier>{8f6bddbb-4d46-4406-be4d-81b0d96d56c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameObject\Collider">
+      <UniqueIdentifier>{6570eacb-0480-4b77-8415-b5a5f4d2597e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collision\Squea">
+      <UniqueIdentifier>{dc4ec62c-b5b8-48a9-9aca-5b93a9f56f44}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CDirectx.cpp">
+      <Filter>System\DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="CInput.cpp">
+      <Filter>System\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="CWindow.cpp">
+      <Filter>System\Window</Filter>
+    </ClCompile>
+    <ClCompile Include="CTitleScene.cpp">
+      <Filter>Scene\TitleScene</Filter>
+    </ClCompile>
+    <ClCompile Include="CSelectScene.cpp">
+      <Filter>Scene\SelectScene</Filter>
+    </ClCompile>
+    <ClCompile Include="CSceneManager.cpp">
+      <Filter>System\Manager\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CSoundManager.cpp">
+      <Filter>System\Manager\SoundManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CDrawManager.cpp">
+      <Filter>System\Manager\DrawManager</Filter>
+    </ClCompile>
+    <ClCompile Include="CGame.cpp">
+      <Filter>System\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="CScene.cpp">
+      <Filter>Scene\Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage1.cpp">
+      <Filter>Scene\Stage\Stage1</Filter>
+    </ClCompile>
+    <ClCompile Include="WICTextureLoader.cpp">
+      <Filter>System\TextureLoad</Filter>
+    </ClCompile>
+    <ClCompile Include="CGameObject.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="CFloat3.cpp">
+      <Filter>Collision\Float3</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.cpp">
+      <Filter>Collision\Collision</Filter>
+    </ClCompile>
+    <ClCompile Include="CPlayer.cpp">
+      <Filter>GameObject\Player</Filter>
+    </ClCompile>
+    <ClCompile Include="CFloor.cpp">
+      <Filter>GameObject\Floor</Filter>
+    </ClCompile>
+    <ClCompile Include="CUi.cpp">
+      <Filter>GameObject\Ui</Filter>
+    </ClCompile>
+    <ClCompile Include="CBackGround.cpp">
+      <Filter>GameObject\Background</Filter>
+    </ClCompile>
+    <ClCompile Include="CAnimation.cpp">
+      <Filter>GameObject\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="CCircle.cpp">
+      <Filter>Collision\Circle</Filter>
+    </ClCompile>
+    <ClCompile Include="CGoal.cpp">
+      <Filter>GameObject\Goal</Filter>
+    </ClCompile>
+    <ClCompile Include="CCollider.cpp">
+      <Filter>GameObject\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="CSquea.cpp">
+      <Filter>Collision\Squea</Filter>
+    </ClCompile>
+    <ClCompile Include="CWoodBox.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CPiece.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage2.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage3.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage4.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CDirectx.h">
+      <Filter>System\DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="CInput.h">
+      <Filter>System\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="CWindow.h">
+      <Filter>System\Window</Filter>
+    </ClInclude>
+    <ClInclude Include="CTitleScene.h">
+      <Filter>Scene\TitleScene</Filter>
+    </ClInclude>
+    <ClInclude Include="CSelectScene.h">
+      <Filter>Scene\SelectScene</Filter>
+    </ClInclude>
+    <ClInclude Include="CSceneManager.h">
+      <Filter>System\Manager\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="CSoundManager.h">
+      <Filter>System\Manager\SoundManager</Filter>
+    </ClInclude>
+    <ClInclude Include="CDrawManager.h">
+      <Filter>System\Manager\DrawManager</Filter>
+    </ClInclude>
+    <ClInclude Include="CGame.h">
+      <Filter>System\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CScene.h">
+      <Filter>Scene\Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage1.h">
+      <Filter>Scene\Stage\Stage1</Filter>
+    </ClInclude>
+    <ClInclude Include="WICTextureLoader.h">
+      <Filter>System\TextureLoad</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameObject.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="CFloat3.h">
+      <Filter>Collision\Float3</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Collision\Collision</Filter>
+    </ClInclude>
+    <ClInclude Include="CPlayer.h">
+      <Filter>GameObject\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="CFloor.h">
+      <Filter>GameObject\Floor</Filter>
+    </ClInclude>
+    <ClInclude Include="CUi.h">
+      <Filter>GameObject\Ui</Filter>
+    </ClInclude>
+    <ClInclude Include="CBackGround.h">
+      <Filter>GameObject\Background</Filter>
+    </ClInclude>
+    <ClInclude Include="CAnimation.h">
+      <Filter>GameObject\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="CCircle.h">
+      <Filter>Collision\Circle</Filter>
+    </ClInclude>
+    <ClInclude Include="CGoal.h">
+      <Filter>GameObject\Goal</Filter>
+    </ClInclude>
+    <ClInclude Include="CCollider.h">
+      <Filter>GameObject\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="CSquea.h">
+      <Filter>Collision\Squea</Filter>
+    </ClInclude>
+    <ClInclude Include="CWoodBox.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="CPiece.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage2.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage3.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage4.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="PixelShader.hlsl" />
+    <FxCompile Include="VertexShader.hlsl" />
+  </ItemGroup>
+</Project>
